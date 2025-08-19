@@ -56,7 +56,7 @@ Es ideal para repasar conceptos, practicar y tener ejemplos listos de referencia
 ## 💡 Cómo usarlo
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone https://github.com/AnVales/Python-Practice-Exercises.git
    cd tu-repo
 
 2. Ejecuta los ejemplos con:
